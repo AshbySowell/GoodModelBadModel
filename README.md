@@ -1,9 +1,9 @@
 # gmbm-community
 
-Welcome to the community hub for [Good Model Bad Model](https://goodmodelbadmodel.com/), a website dedicated to comparing machine learning models' outputs. Here, we invite users to share feedback, report issues, and suggest features.
+Welcome to the community hub for [gmbm](https://goodmodelbadmodel.com/) (GoodModelBadModel), a website dedicated to comparing machine learning models' outputs. Here, we invite users to share feedback, report issues, and suggest features.
 
-## What is Good Model Bad Model?
-Good Model Bad Model is a tool that allows users to compare two machine learning models by visualizing differences, comparing labels via confusion matrices, and highlighting pixel differences. It also features an improvement view where the performance of one model is compared against another based on a ground truth model.
+## What is gmbm ?
+gmbm, short for GoodModelBadModel, is a tool that allows users to compare two machine learning models by visualizing differences, comparing labels via confusion matrices, and highlighting pixel differences. It also features an improvement view where the performance of one model is compared against another based on a ground truth model.
 
 ## How to Contribute
 We value your contributions and encourage you to interact with us and the community by:
@@ -21,4 +21,4 @@ To report an issue, please use the [issue tracker](https://github.com/AshbySowel
 We love to hear your ideas! If you have a suggestion that could make Good Model Bad Model better, please post it in the [discussions](https://github.com/AshbySowell/gmbm-community/discussions) area.
 
 ## Connect with Us
-Visit our website: [Good Model Bad Model](https://goodmodelbadmodel.com/)
+Visit our website: [gmbm](https://goodmodelbadmodel.com/)
