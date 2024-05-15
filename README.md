@@ -18,7 +18,7 @@ Please see our [Contribution Guidelines](CONTRIBUTING.md) for more information o
 To report an issue, please use the [issue tracker](https://github.com/AshbySowell/gmbm-community/issues) provided in this repository. Ensure to check existing issues to avoid duplicates and provide as much information as possible to replicate the issue.
 
 ## Suggesting Features
-We love to hear your ideas! If you have a suggestion that could make Good Model Bad Model better, please post it in the [discussions](https://github.com/AshbySowell/gmbm-community/discussions) area.
+We love to hear your ideas! If you have a suggestion that could make gmbm better, please post it in the [discussions](https://github.com/AshbySowell/gmbm-community/discussions) area.
 
 ## Connect with Us
 Visit our website: [gmbm](https://goodmodelbadmodel.com/)
