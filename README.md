@@ -12,7 +12,6 @@ We value your contributions and encourage you to interact with us and the commun
 - Asking Questions
 - Discussing potential improvements
 
-Please see our [Contribution Guidelines](CONTRIBUTING.md) for more information on how to submit issues or contribute to discussions.
 
 ## Reporting Issues
 To report an issue, please use the [issue tracker](https://github.com/AshbySowell/gmbm-community/issues) provided in this repository. Ensure to check existing issues to avoid duplicates and provide as much information as possible to replicate the issue.
