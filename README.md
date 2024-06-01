@@ -2,6 +2,12 @@
 
 Welcome to the community hub for [gmbm](https://goodmodelbadmodel.com/) (GoodModelBadModel), a website dedicated to comparing machine learning models' outputs. Here, we invite users to share feedback, report issues, and suggest features.
 
+Here you will find the following:
+1. [Discussion](https://github.com/AshbySowell/gmbm-community/discussions) forums
+2. [Issue](https://github.com/AshbySowell/gmbm-community/issues) tracker
+3. Documentation
+
+
 ## What is gmbm ?
 gmbm, short for GoodModelBadModel, is a tool that allows users to compare two machine learning models by visualizing differences, comparing labels via confusion matrices, and highlighting pixel differences. It also features an improvement view where the performance of one model is compared against another based on a ground truth model.
 
