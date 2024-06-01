@@ -6,8 +6,7 @@ Welcome to the official documentation for GoodModelBadModel. This service allows
 
 1. Overview
 2. Key Concepts
-3. System Architecture
-4. Uploading Data
+3. Uploading Data
 
 ### **1. Overview**
 
