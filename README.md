@@ -5,7 +5,7 @@ Welcome to the community hub for [gmbm](https://goodmodelbadmodel.com/) (GoodMod
 Here you will find the following:
 1. [Discussion](https://github.com/AshbySowell/gmbm-community/discussions) forums
 2. [Issue](https://github.com/AshbySowell/gmbm-community/issues) tracker
-3. Documentation
+3. [Documentation](docs.ashbysowell.com)
 
 
 ## What is gmbm ?
