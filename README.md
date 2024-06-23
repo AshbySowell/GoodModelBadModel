@@ -2,6 +2,10 @@
 
 Welcome to the community and documentation hub for [GoodModelBadModel](https://goodmodelbadmodel.com/), a website dedicated to comparing machine learning models' outputs. 
 
+## Forums
+
+- [Forums](https://github.com/AshbySowell/GoodModelBadModel/discussions) - Feel free to ask questions or discuss your use case here.
+  
 ## Documentation
 
 - [Docs](http://goodmodelbadmodel.com/docs) - see the documentation 
