@@ -3,8 +3,8 @@
 Welcome to the community and documentation hub for [GoodModelBadModel](https://goodmodelbadmodel.com/), a website dedicated to comparing machine learning models' outputs. 
 
 ## Documentation
-Full documentation is available at [GoodModelBadModel Docs](http://docs.goodmodelbadmodel.com/).
 
+- [Docs](http://docs.goodmodelbadmodel.com/) - see the documentation 
 
 ## Community
 Learn more about our community, how to contribute, participate in discussions, and more by visiting our [Community Guidelines](community.md).
