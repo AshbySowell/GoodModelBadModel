@@ -1,6 +1,0 @@
-collections:
-  changelog:
-    output: true
-    permalink: /changelogs/:name/
-    sort_by: date
-    sort_order: reverse # Use 'reverse' for newest first, remove this line for oldest first
