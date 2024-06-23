@@ -1,5 +1,5 @@
 collections:
-  changelogs:
+  changelog:
     output: true
     permalink: /changelogs/:name/
     sort_by: date
