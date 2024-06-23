@@ -13,7 +13,7 @@ Learn more about our community, how to contribute, participate in discussions, a
 ## Roadmap & Changelog
 
 - [Roadmap](https://github.com/orgs/AshbySowell/projects/6) - see what features are in store.
-- [Changelog](https://changelog.goodmodelbadmodel.com/) - See recent updates.
+- [Changelog](https://goodmodelbadmodel.com/changelog) - See recent updates.
 
   
 ## How to Contribute
