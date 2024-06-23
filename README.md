@@ -10,6 +10,12 @@ Full documentation is available at [GoodModelBadModel Docs](http://docs.goodmode
 Learn more about our community, how to contribute, participate in discussions, and more by visiting our [Community Guidelines](community.md).
 
 
+## Roadmap & Changelog
+
+- [Roadmap](https://github.com/orgs/AshbySowell/projects/6) - see what features are in store.
+- [Changelog](https://changelog.goodmodelbadmodel.com/) - See recent updates.
+
+  
 ## How to Contribute
 We value your contributions and encourage you to interact with us and the community by:
 - [Reporting a Bug](https://github.com/AshbySowell/GoodModelBadModel/issues)
