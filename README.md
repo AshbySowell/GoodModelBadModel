@@ -6,14 +6,15 @@ Welcome to the community and documentation hub for [GoodModelBadModel](https://g
 
 - [Docs](http://docs.goodmodelbadmodel.com/) - see the documentation 
 
-## Community
-Learn more about our community, how to contribute, participate in discussions, and more by visiting our [Community Guidelines](community.md).
-
 
 ## Roadmap & Changelog
 
 - [Roadmap](https://github.com/orgs/AshbySowell/projects/6) - see what features are in store.
 - [Changelog](https://goodmodelbadmodel.com/changelog) - See recent updates.
+
+## Community
+
+- [Community Guidelines](community.md) - learn more about our community, how to contribute, participate in discussions, and more by visiting our .
 
   
 ## How to Contribute
