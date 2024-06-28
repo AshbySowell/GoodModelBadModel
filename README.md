@@ -14,7 +14,7 @@ Welcome to the community and documentation hub for [GoodModelBadModel](https://g
 ## Roadmap & Changelog
 
 - [Roadmap](https://github.com/orgs/AshbySowell/projects/6) - see what features are in store.
-- [Changelog](https://goodmodelbadmodel.com/changelog) - See recent updates.
+- [Changelog](https://goodmodelbadmodel.com/changelog/) - See recent updates.
 
 ## Community
 
