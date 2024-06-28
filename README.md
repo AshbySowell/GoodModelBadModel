@@ -8,7 +8,7 @@ Welcome to the community and documentation hub for [GoodModelBadModel](https://g
   
 ## Documentation
 
-- [Docs](http://goodmodelbadmodel.com/docs) - see the documentation 
+- [Docs](http://goodmodelbadmodel.com/docs/) - see the documentation 
 
 
 ## Roadmap & Changelog
